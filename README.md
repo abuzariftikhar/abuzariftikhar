@@ -1,37 +1,50 @@
-### Hi there 👋
+# Hi there 
 
-<!--
-**abuzariftikhar/abuzariftikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer from Pakistan working with software since 2019
 
-Here are some ideas to get you started:
+Currently Working and Building @Inferifi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Dart, Flutter, React, React Native, NuxtJS and also taking a look at NodeJS
 
+Trying to improove my skills as a software engineer and leading people everytime and everyday.
 
-## &#x1f4c8; GitHub Stats
+## Soft skills
 
-<a href="https://github.com/abuzariftikhar/abuzariftikhar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzariftikhar&theme=buefy&hide=javascript,html" />
-</a>
-<a href="https://github.com/abuzariftikhar/abuzariftikhar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abuzariftikhar&show_icons=true&hide_border=true&theme=buefy" alt="My GitHub Stats" />
-</a>
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Coder&message=24/7&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Coworker&message=ALWAYS%20THERE%20TO%20HELP&color=deeppink&style=for-the-badge)](http://github.com/LFSCamargo)
 
-<a href="https://github.com/abuzariftikhar/SVI-RMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abuzariftikhar&repo=SVI-RMS&theme=buefy" />
-</a>
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Humble&message=really&color=yellow&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Energy%20Level&message=100%&color=red&style=for-the-badge)](http://github.com/LFSCamargo)
 
-<a href="https://github.com/abuzariftikhar/scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abuzariftikhar&repo=scheduler&theme=buefy" />
-</a>    
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Company&message=XTeam&color=Crimson&style=for-the-badge)](http://github.com/LFSCamargo)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=Currently%20Working%20AS&message=Software%20Engineer&color=orange&style=for-the-badge)](http://github.com/LFSCamargo)
 
-<br />
-<br />
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=CREATOR&message=Chatify&color=teal&style=for-the-badge)](http://github.com/LFSCamargo/Chatify)
+[![http://github.com/LFSCamargo](https://img.shields.io/static/v1?label=CREATOR%20Level&message=TUNNELJS&color=dodgerblue&style=for-the-badge)](http://github.com/LFSCamargo/tunnel)
+
+<br/>
+
+## Languages, Technologies & Tools
+
+<div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
+<img height="80" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+<img height="80" src="https://relay.dev/img/relay.png" />
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" />
+<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558" />
+</div>
