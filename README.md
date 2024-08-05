@@ -26,7 +26,7 @@ Trying to improove my skills as a software engineer and leading people everytime
 
 ## Languages, Technologies & Tools
 
-<div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
+<div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%; backgound-color: black;>
 <img height="80" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
 <img height="80" src="https://relay.dev/img/relay.png" />
 <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
